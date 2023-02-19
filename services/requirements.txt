@@ -2,3 +2,7 @@ djangorestframework
 markdown
 django-filter
 python-decouple
+parinya
+gunicorn
+pip-autoremove
+opencv-python
