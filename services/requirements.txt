@@ -6,3 +6,5 @@ parinya
 gunicorn
 pip-autoremove
 opencv-python
+gspread
+oauth2client

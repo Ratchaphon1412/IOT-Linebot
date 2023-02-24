@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iotservices-378810",
+  "private_key_id": "600d2d0b9d6f9ed738e39c6ce8359f276cbf5f0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJ4AhqBvqoN+gz\njQ4KiwRlRn2MLX+ftXN8Tc/1G9+A1GKjTHv6cvBzDiC7C/zLjlJDRjHmC4eJ3M+R\naBMzGbMz/9aXG5OK5Eoz/32PARu/jl8pM5VAJcoEvaO3bBDSrgYQB73zEIPUoXZI\n8PMd6d+pH/oRaXduPa7GDaoAjPxwBMpBYuxO2VMxrAXyjIX7HvOQiXwHIInu1FB8\nv+4XjSw+sBIyaRJq6WF4+6Ua1bGJ+hmPr7iD+MPTGVnWOevIsxjlldagpRaFWViM\n5zwU/vJRgU54QUVH7tZ5faUqK16xGiiGek/BgkPmMNBZTSNhtrdTY0P/HKsraHmq\nfAaAwYffAgMBAAECggEADEAdIpoD0ft6is5PgNJI1QB/E+ea7A0t0ehC62Pin0XE\nKpa0m1EoSEMeN1uV3qBnW4/B7Wzbr8EHk5JWP+6aUlh/JDJXNMF/w0II04nErk4s\ndiqcLwVcCgecDMBxEOfglE5z93EUHu4haHG+vxz3JqM7IJ1e0wDJP1mK7HehxgZY\nxR+Vt8Lscr5vFmL1lr10A8vUfytYICZAf/rBzymmqlZD4hCDk1MmYyMP4+aadFEC\noMHmInr5uuX24x/DZ0anvUmzERvduJ4dpZrmMD75LoeYcTNhHvAROOoE33/yEZCZ\nhe8TQWjBapYzI6hLoKKn+b+Aa/DmxpO9sYEKXmEi4QKBgQDt6bBhvHYzglYGRcIZ\nFxcnlkHnrPGKFZjvMb7VIrBnebbaqA/LYN8uVS9cD0NJpUNLpiIBXqk4VTB6wFcg\nk/uu7FwOJJomcsZC02rsl6is2ABu6nldcQLrkbjtRbSILK7ftU1y/LAQh+D2dLsu\nyUBuwqEFhODSAGFHYV5ivVhtkQKBgQDZOPhUKCKchR3g+2I2MgtaWSvRLp2BAfQ1\nkh3icK5N8WSzboPp5/D8NrGiZLFYUi2Bpg9MpzPaKQZuXiG2u9NZf5ovz5l21RyP\n+zyY7TOtVevLOdqNYQw4me3tzRwKG/e8AVmWYY/IK4xw6hP2+1D5TMDRJgRQrC+K\nAZ4hc36mbwKBgGWCAYmR2XTctUtz0/7UhUKUr4XjmiLqWBgmR1+0r0NXAReGAUcr\nC84+9jf3IyR26KGMPpILC3RHlKmrCwGRYh8eJaC7KTIiYkj833AWvRcSCg1I6YNe\nxnov8JD73q0DM5GrT2IyQgSrlOZSo9Kwd1dKn101dp7jHp5QAu9qDiKhAoGBANZb\nAbMKaB1Mv09kwmX4vHtLw5GJDqRf6T10E0mBKICB1X27cTFBUO2Si3hVJSyi64Uk\n+bQKy4BdO5tuCJbqgoWvBdhoZGh/pM/wfLvsVzKVtzm0vZcGTakNPV2NKj5PmwhL\nzLw5Skmdr9k9JLZ1ClL5Cs1ZVqjFQaRONF2OO0zBAoGAVNpNOEDH5OCugjKy01D7\nUQ6l2McwQif9cpQI5k1s+veK8hO4vFe1cZVuXgQtczain1+lMY6GtfqlzYjvYPsb\nqdfPrUkdgWaMS1chEVUgmhY+xjeKSXKq1EEBD44hFr8pbvCpeakJyZmDtb1TGXt9\nrfGJvUx9tmhIycw9eUqyxSk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "iot-service@iotservices-378810.iam.gserviceaccount.com",
+  "client_id": "100507726436556655763",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iot-service%40iotservices-378810.iam.gserviceaccount.com"
+}
